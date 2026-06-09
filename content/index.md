@@ -1,6 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Aryan Khatwad's Knowledge Base
 ---
+## Introduction
+
+My topic will be about my favorite movies.
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
