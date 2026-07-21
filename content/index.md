@@ -1,5 +1,6 @@
 ---
 title: Aryan Khatwad's Knowledge Base
+date: July 21, 2026
 ---
 ## Introduction
 
@@ -12,3 +13,9 @@ My topic will be about my favorite movies.
 - [[movie-03 index|Movie 3: Inception]]
 - [[movie-04 index|Movie 4: Oppenheimer]]
 - [[movie-05 index|Movie 5: Memento]]
+## Related Pages
+
+* [[references|References]]
+* [[assets|Assets]]
+* [[about|About Me]]
+* [[org-systems-analysis.md|Analysis of Wikipedia's Organizing System]]

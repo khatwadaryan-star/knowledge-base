@@ -1,5 +1,6 @@
 ---
 title: Analysis of Wikipedia's Organizing System
+date: July 21, 2026
 ---
 ## Primary Resources
 
